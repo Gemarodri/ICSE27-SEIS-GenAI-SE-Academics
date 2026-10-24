@@ -7,14 +7,14 @@ This repository contains supporting materials for the study, including the surve
 | Material | Description |
 | --- | --- |
 | **Survey (PDF)** | The questionnaire administered to respondents, including the survey questions and response options. |
-| **Codebook and statistics** | The topics identified from the open-ended responses, their descriptions, their organization into higher-level themes, and the accompanying summary statistics. |
-| **RQ1 graphs** | Graphs used to present the findings for RQ1. |
+| **Codebook (PDF)** | The topics identified from the open-ended responses, their descriptions, their organization into higher-level themes, and the accompanying summary statistics. |
+| **Grpahs** | Graphs used to present the quantitative findings for Demographics, RQ1 and RQ2. |
 
 ## How to use this package
 
 1. Consult the **survey PDF** for the wording of the questions and available response options.
-2. Refer to the **codebook** for topic descriptions and the theme structure used to analyze the open-ended responses. The accompanying statistics summarize the reported results.
-3. View the **RQ1 graphs** alongside the corresponding findings in the paper.
+2. Refer to the **codebook PDF** for topic descriptions and the theme structure used to analyze the open-ended responses. The accompanying statistics summarize the reported results.
+3. View the **Graphs** alongside the corresponding results section in the paper.
 
 
 ## Notes
