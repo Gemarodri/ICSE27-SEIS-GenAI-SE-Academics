@@ -1,6 +1,6 @@
 # ICSE27-SEIS-GenAI-SE-Academics --  Replication Package
 
-This repository contains supporting materials for the study, including the survey instrument, the qualitative codebook and descriptive statistics, and the figures used to report results for Research Question 1 (RQ1).
+This repository contains supporting materials for the study, including the survey instrument, the qualitative codebook and descriptive statistics, and the figures used to report results for our paper: **Perceived Implications of GenAI on Software Engineering Academics' Well-Being**
 
 ## Contents
 
