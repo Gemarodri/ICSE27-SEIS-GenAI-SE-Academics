@@ -14,7 +14,9 @@ This repository contains supporting materials for the study, including the surve
 
 1. Consult the **survey PDF** for the wording of the questions and available response options.
 2. Refer to the **codebook PDF** for topic descriptions and the theme structure used to analyze the open-ended responses. The accompanying statistics summarize the reported results.
-3. View the **Graphs** alongside the corresponding results section in the paper.
+3. View the **Graphs.pdf** alongside the corresponding results section in the paper.
+4. Download the **Graphs.xlsx** if you want to reproduce the graphs.
+
 
 
 ## Notes
